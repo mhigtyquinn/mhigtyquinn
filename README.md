@@ -1,6 +1,6 @@
 # Andrew Quinn
 
 ### Currently building
-iOS wardrobe & style app — private development.
+iOS — private development.
 
 **End-to-end product design & development · Vector illustration**
